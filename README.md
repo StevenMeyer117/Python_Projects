@@ -1,0 +1,1 @@
+Python_Projects is a list of python programs I have worked on.  Unless mentioned in the comments at the beginning of each program, the program was worked on entirely myself.  Credit to others will be given where due.
